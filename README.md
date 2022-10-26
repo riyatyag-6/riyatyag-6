@@ -5,8 +5,9 @@
 - 👀 I’m interested in Web Dev and AI.
 - 🌱 I’m currently learning Web Development and DSA.
 - 💞️ I’m looking to collaborate on Open Source and real working 
-- 📫 How to reach me ...
+- 😄 Pronouns: She/Her
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!---
 riyatyag-6/riyatyag-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <img title="Android Studio" height="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
   
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### Connect with me via :
 <div>
 <a href="mailto:riyatyagi618@gmail.com">
@@ -48,13 +49,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
-
-
-
-
-[<img align="left" alt="holisitc_developer |LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/riya-tyagi-4bbb291b8)
-[<img align="left" alt="holisitc_developer |Instagram" width="30px" src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/riya_._.5/)
-[<img align="left" alt="holisitc_developer |Twitter" width="22px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>](https://twitter.com/riya_t_5?t=kOJLHiDyp7gCLjt4tlS4HQ&s=08)
-<br />
 
