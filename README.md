@@ -24,15 +24,14 @@ You can click the Preview link to take a look at your changes.
   <img title="Markdown" height="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Git" height="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
- 
-  
+  <img title="YouTube" height="40px" src="https://img.icons8.com/color/512/youtube-play.png"/> &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## GitHub Stats:
 
 <img align="right" width=320px border-radius="5 px" alt="Bunny" src="https://media.tenor.com/OrSyAesEiZQAAAAi/lovely-tuji-bunny.gif" />
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyatyag-6&show_icons=true&locale=en&layout=compact&theme=onedark" alt="soumyajit2825" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyatyag-6&show_icons=true&locale=en&layout=compact&theme=onedark" alt="riya" /></p>
 <br>
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=riyatyag-6&show_icons=true&locale=en&theme=tokyonight" alt="soumyajit2825" /></p>
