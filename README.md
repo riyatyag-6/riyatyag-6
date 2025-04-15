@@ -43,9 +43,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/riya_t_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyajit200328" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/riya-tyagi-4bbb291b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajit-mondal-a0692b234" height="30" width="40" /></a>
-<a href="https://instagram.com/riya_._.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sou_mya_jit" height="30" width="40" /></a>
+
 </p>
 
 
