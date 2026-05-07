@@ -2,8 +2,8 @@
 <!-- <img align="right" alt="GIF" src="e1f3413bf5036045713341394f617225.gif" width="500" height="320" /> -->
 
 - 👋 Hi, I’m @riyatyag-6
-- 👀 I’m interested in Web Dev and AI.
-- 🌱 I’m currently learning Web Development and DSA.
+- 👀 I’m interested in AI/ML and Data Related roles.
+- 🌱 I’m currently learning Gen AI.
 - 💞️ I’m looking to collaborate on Open Source and some cool projects 
 - 😄 Pronouns: She/Her
 
